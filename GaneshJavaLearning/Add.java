@@ -4,7 +4,7 @@ public class Add {
 	{
 		public static void main(String args[])
 		{
-			int k, a=1, b=1;
+			int k, a=1, b=1,c=1;
 			System.out.print("1  1"  );
 			k=0;
 			
